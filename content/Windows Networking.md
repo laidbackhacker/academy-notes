@@ -33,7 +33,7 @@ Themes: [[Windows]], [[Networking]],
 - Another grouping method to easily apply policies to multiple users/computers
 
 # Kerberos Authentication
-![[Pasted image 20220720101741.png]]
+![Pasted image 20220720101741.png](Pasted%20image%2020220720101741.png)
 - Kerberos tickets can be stolen with Mimikatz
 
 # File permissions

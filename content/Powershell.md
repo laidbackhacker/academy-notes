@@ -30,11 +30,11 @@ Themes: [[Windows]],
 - You don't need to declare a variables type, same as python
 - `$var = 21` integer
 - `$var = "21` string
-![[Pasted image 20220708111748.png]]
+![Pasted image 20220708111748.png](Pasted%20image%2020220708111748.png)
 ### Operators
-![[Pasted image 20220708113925.png]]
-![[Pasted image 20220708114009.png]]
-![[Pasted image 20220708114106.png]]
+![Pasted image 20220708113925.png](Pasted%20image%2020220708113925.png)
+![Pasted image 20220708114009.png](Pasted%20image%2020220708114009.png)
+![Pasted image 20220708114106.png](Pasted%20image%2020220708114106.png)
 
 
 # Exercise 2

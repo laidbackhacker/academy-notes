@@ -17,7 +17,7 @@ Themes: [[Networking]],
 
 - DNS is distributed to multiple servers that may control a separate TLD each. E.g. one for `.com`, one for `.org`, one for `.edu` etc.
 - There are multiple levels, `www.bbc.co.uk` would go `uk->co`.
-![[Pasted image 20220228112603.png]]
+![Pasted image 20220228112603.png](Pasted%20image%2020220228112603.png)
 
 - `www.` is just an identifier so people know that a hostname is for a website, it isn't actually needed when searching a URL.
 
