@@ -8,7 +8,7 @@ title: "Operating systems"
 
 ## User interfaces
 - Operating systems provide a user interface. They can be command line based or graphical.
-![Pasted image 20220706093513.png](Pasted%20image%2020220706093513.png)
+![Pasted image 20220706093513.png](images/Pasted%20image%2020220706093513.png)
 ## Drivers
 - Drivers allow users to communicate with physical hardware. They allow hardware to control and be controlled by software
 
@@ -27,7 +27,7 @@ title: "Operating systems"
 - Each process gives time to the other processes
 
 # Kernel - the core of the OS
-![Pasted image 20220706100454.png](Pasted%20image%2020220706100454.png)
+![Pasted image 20220706100454.png](images/Pasted%20image%2020220706100454.png)
 ## Monolithic kernel
 - MS-DOS
 - Linux

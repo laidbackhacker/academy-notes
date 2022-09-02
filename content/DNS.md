@@ -8,13 +8,13 @@ DNS is like the phone book of the internet, it resolves IP addresses into human-
 
 Invented by [[Paul Mockapetris]]
 
-![Pasted image 20220713091157.png](Pasted%20image%2020220713091157.png)
+![Pasted image 20220713091157.png](images/Pasted%20image%2020220713091157.png)
 Starts at the end of a domain and works its way forward through the domain extension levels
 
-![Pasted image 20220713091314.png](Pasted%20image%2020220713091314.png)
+![Pasted image 20220713091314.png](images/Pasted%20image%2020220713091314.png)
 Different companies are responsible for different parts of the domain
 
-![Pasted image 20220713092054.png](Pasted%20image%2020220713092054.png)
+![Pasted image 20220713092054.png](images/Pasted%20image%2020220713092054.png)
 *How a domain is resolved*
 
 The more domain names there are, the slower the process gets, the server companies need to add more servers and distribute the load to keep speeds up

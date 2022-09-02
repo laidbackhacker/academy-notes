@@ -5,14 +5,14 @@ Themes: [[Networking]],
 
 # Dark Web
 ## The web has *layers*
-![Pasted image 20220721091415.png](Pasted%20image%2020220721091415.png)
+![Pasted image 20220721091415.png](images/Pasted%20image%2020220721091415.png)
 - The surface is indexed sites that can be found by search engines
 - The deep web is the sites that aren't indexed by search engines, much larger than the surface web
 - The bottom is parts of the internet that require specific software to access
-![Pasted image 20220721091912.png](Pasted%20image%2020220721091912.png)
+![Pasted image 20220721091912.png](images/Pasted%20image%2020220721091912.png)
 
 ## Onion Routing
-![Pasted image 20220721092943.png](Pasted%20image%2020220721092943.png)
+![Pasted image 20220721092943.png](images/Pasted%20image%2020220721092943.png)
 - Data is protected with multiple layers of encryption, like an onion
 ### The Onion Routing Project (TOR)
 - Tor is just the technology behind the dark web
@@ -31,7 +31,7 @@ Themes: [[Networking]],
 - Tor sites have a `.onion` domain extension and often have obfuscated addresses `tnhafie5wfu6qjby2ucxiedh.onion`
 - The addresses are generated from the key used to encrypt the site
 
-![Pasted image 20220721095800.png](Pasted%20image%2020220721095800.png)
+![Pasted image 20220721095800.png](images/Pasted%20image%2020220721095800.png)
 
 Hosting a site on Tor is much cheaper than on the clearnet because you don't need to buy a domain, you can also host the site personally because your IP address is anonymous
 
@@ -43,7 +43,7 @@ v3 onion addresses are 56 characters long which are harder to brute force than v
 > "Generally speaking, we don't recommend using a VPN with Tor unless you're an advanced user who knows how to configure both in a way that doesn't compromise your privacy - Tor FAQs"
 
 ### Options for accessing Tor
-![Pasted image 20220721101713.png](Pasted%20image%2020220721101713.png)
+![Pasted image 20220721101713.png](images/Pasted%20image%2020220721101713.png)
 TAILS is anti-forensic, the moment you power the system down, all traces of it are gone, all data is tunnelled through Tor. Using it on a USB will leave no footprint
 
 ### Decentralisation
