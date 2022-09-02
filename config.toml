@@ -1,4 +1,4 @@
-baseURL = "https://laidbackhacker.github.io/academy-notes/"
+baseURL = "https://notes.laidbackhacker.dev/"
 languageCode = "en-us"
 googleAnalytics = ""
 relativeURLs = false
