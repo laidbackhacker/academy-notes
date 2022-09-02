@@ -1,4 +1,9 @@
-# Academy Scenario 1
+---
+title: "Academy Scenario 1"
+tags:
+- example-tag
+---
+
 ## Kali Linux
 - Kali
 - 2022.1
