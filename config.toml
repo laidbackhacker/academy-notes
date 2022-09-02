@@ -1,7 +1,7 @@
 baseURL = "https://laidbackhacker.github.io/academy-notes/"
 languageCode = "en-us"
-googleAnalytics = "G-XYFD95KB4J"
-relativeURLs = false
+googleAnalytics = ""
+relativeURLs = true
 disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
