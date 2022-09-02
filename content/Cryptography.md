@@ -1,3 +1,6 @@
+---
+title: "Cryptography"
+---
 Themes: [[Cryptology]], 
 
 # Cryptography

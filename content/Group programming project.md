@@ -1,3 +1,6 @@
+---
+title: "Group programming project"
+---
 # Group programming project
 ## Idea
 - csv medical data hosted on an ftp server

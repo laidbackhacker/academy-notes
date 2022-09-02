@@ -1,3 +1,6 @@
+---
+title: "Bash Commands"
+---
 Themes: [[Linux]], 
 # Bash
 - `man` before a command to bring up a manual for that command

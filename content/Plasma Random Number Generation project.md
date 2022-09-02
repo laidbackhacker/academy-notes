@@ -1,3 +1,6 @@
+---
+title: "Plasma Random Number Generation project"
+---
 # Plasma Random Number Generation project - notes
 ## TODO
 - Find Python hashing library

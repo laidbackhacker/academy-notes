@@ -1,3 +1,6 @@
+---
+title: "Operating systems"
+---
 # Operating systems
 ## Intro
 - Operating systems are the middle man that allow the user to communicate with hardware in order to use software

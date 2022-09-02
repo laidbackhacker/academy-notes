@@ -1,3 +1,6 @@
+---
+title: "CV tips"
+---
 # CV tips
 - Relevant work experience
 - Research the company to ensure things stay relevant

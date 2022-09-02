@@ -1,3 +1,6 @@
+---
+title: "Networking"
+---
 # Network types
 ## PAN - Personal Area Network
 Relatively short distance for communications e.g. Bluetooth, NFC, Zigbee

@@ -1,3 +1,6 @@
+---
+title: "Wireshark"
+---
 Themes: [[Networking]], [[Software]], [[FOSS]]
 
 ![[Pasted image 20220712092709.png]]

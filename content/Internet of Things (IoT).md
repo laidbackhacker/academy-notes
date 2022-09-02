@@ -1,3 +1,6 @@
+---
+title: "Internet of things (IoT)"
+---
 # IoT
 - When physical objects contain embedded technology to interact with the external environment
 

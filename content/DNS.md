@@ -1,3 +1,6 @@
+---
+title: "DNS"
+---
 Themes: [[Networking]], 
 
 # DNS

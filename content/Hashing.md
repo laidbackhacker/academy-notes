@@ -1,3 +1,6 @@
+---
+title: "Hashing"
+---
 Themes: [[Cryptography]], 
 
 # Hashing

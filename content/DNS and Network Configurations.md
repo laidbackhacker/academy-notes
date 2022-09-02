@@ -1,3 +1,6 @@
+---
+title: "DNS and Network Configurations"
+---
 Themes: [[Networking]], 
 
 # DNS and Network Configurations

@@ -1,3 +1,6 @@
+---
+title: "Virtualization"
+---
 # Virtualization
 ### Full virtualization
 - Standard VMs where you execute an entire operating on hardware

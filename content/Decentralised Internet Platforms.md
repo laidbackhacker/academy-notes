@@ -1,3 +1,6 @@
+---
+title: "Decentralised Internet Platforms"
+---
 Themes: [[Dark Web]], [[Networking]], 
 
 # Decentralised Internet Platforms
