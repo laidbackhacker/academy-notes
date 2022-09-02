@@ -1,5 +1,5 @@
-name: Jacky Zhao
-enableToc: true
+name: Jake Wickham
+enableToc: false
 openToc: false
 enableLinkPreview: true
 enableLatex: true
@@ -10,17 +10,17 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
-enableGitHubEdit: true
+enableGitHubEdit: false
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  This site contains all of the meaningful notes that I composed over the course of the academy.
+  The files contain a combination of handmade notes as well as useful diagrams and screenshots from the content slides.
 page_title:
-  "🪴 Quartz 3.3"
+  "📝Academy Notes"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/laidbackhacker
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/laidbackhacker
