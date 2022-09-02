@@ -30,5 +30,5 @@ This site contains all of the meaningful notes that I composed over the course o
 ## Work
 - [[Plasma Random Number Generation project]]
 - [[Group programming project]]
-- [[Academy Scenario 1]]
+- [[Academy-Scenario-1]]
 - [[CV tips]]
